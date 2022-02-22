@@ -127,30 +127,30 @@ Bank Telephone & Fax       +91-11-26521719
  
  All that remains for you to do is email this PDf of your application  to the Coordinator GIPEDI (subrat.kar@gmail.com) in the proper format by clicking here.
 
-Format for email from the Applicant to enclose GIPEDI Application
+	Format for email from the Applicant to enclose GIPEDI Application
 
-mailto:subrat@ee.iitd.ac.in?subject=[GIPEDI/ Batch ?? / Year ????] <Name of Applicant>&body=To: Prof Subrat Kar Coordinator GIPEDI Program
+	mailto:subrat@ee.iitd.ac.in?subject=[GIPEDI/ Batch ?? / Year ????] <Name of Applicant>&body=To: Prof Subrat Kar Coordinator GIPEDI Program
 
-From: <Name>, <Address> <email> <Telephone>
+	From: <Name>, <Address> <email> <Telephone>
 
-Dear Sir,
+	Dear Sir,
 
-I am enclosing my application for GIPEDI Batch ??? of Year ????.
+	I am enclosing my application for GIPEDI Batch ??? of Year ????.
 
-I have paid the application fee online with transaction details as follows : TID ............ dated .....
+	I have paid the application fee online with transaction details as follows : TID ............ dated .....
 
-The TPO of my Institute will email you directly from his/her official email address < fill in your TPO's official email address >.
+	The TPO of my Institute will email you directly from his/her official email address < fill in your TPO's official email address >.
 
-I have requested the following two referees to fill in a LoR each for me.
+	I have requested the following two referees to fill in a LoR each for me.
 
-<referee1 Name and official email>
+	<referee1 Name and official email>
 
-<referee 2 Name and official email>
+	<referee 2 Name and official email>
 
-<Name of Applicant>
+	<Name of Applicant>
 
-email
+	email
 
-Mobile
+	Mobile
  
  
