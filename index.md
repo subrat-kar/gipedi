@@ -1,4 +1,4 @@
-## GIPEDI - Global Internship Program in Engineering Design and Innovation
+# GIPEDI - Global Internship Program in Engineering Design and Innovation
 
 <ins>[Announcements](https://sites.google.com/site/gipediinterns/announcements)</ins> <ins>[Application Form for Printout](https://sites.google.com/site/gipediinterns/application-form-for-printout)</ins> <ins>[FAQ Frequently Asked Questions](https://sites.google.com/site/gipediinterns/faq-frequently-asked-questions)</ins> <ins>[Quick Feedback](https://sites.google.com/site/gipediinterns/feedback)</ins>
 
@@ -94,10 +94,11 @@ OR
 
 ## **STEP 3 : Getting your application forwarded by your TPO**
 
-Your TPO does not have to physically sign on the first page any longer - this No Objection / Forwarding can be done by the TPO sending an email.
+> Your TPO does not have to physically sign on the first page any longer - this No Objection / Forwarding can be done by the TPO sending an email.
 
 Your TPO signature can be substituted by a email from your TPO to me. This email must be sent from the official institutional email (not from a gmail address or Yahoo address). Please ask your TPO to use the following format for the email sent.
 
+```
 **TPO’s Approval Email for <Name of Applicant> <Student ID> <Institute Name and Address>**
 
 *Subject: No Objection Certificate for <Name of Applicant> <Student ID> <Institute Name and Postal Address>*
@@ -106,17 +107,25 @@ Your TPO signature can be substituted by a email from your TPO to me. This email
 
 *Dear Sir,*
 
-*As TPO, I certify that <Applicant> <Student ID> <Year and Discipline> of our Institute <Name of Institute and Postal Address> is hereby allowed to apply for the GIPEDI Internship Program in IIT Delhi.*
+*As TPO, I certify that <Applicant> <Student ID> <Year and Discipline> 
+of our Institute <Name of Institute and Postal Address> 
+is hereby allowed to apply for the GIPEDI Internship Program in IIT Delhi.*
 
-*I also certify that he/she will be able to attend this Program if selected and that there is no exam / academic evaluation etc which will interfere with his/her participation.*
+*I also certify that he/she will be able to attend this Program if selected 
+and that there is no exam / academic evaluation etc which will interfere 
+with his/her participation.*
 
-*(The TPO should certify the statement in this paragraph only for applicants seeking financial waiver) As he/she is in need of financially assistance (total annual income of both parents together being less than Rs 1 lakh as per financial proof attached), I also endorse the request for waiver of fees made by the applicant.*
+> (The TPO should certify the following statement in this paragraph only 
+> for applicants seeking financial waiver, else it should be deleted.) 
+    
+As he/she is in need of financially assistance (total annual income 
+of both parents together being less than Rs 1 lakh as per attested financial 
+proof attached), I also endorse the request for waiver of fees made by the applicant.
 
 *<Name of the TPO>*
-
 *Official email (gmail / Yahoo / rediffmail etc will not do)*
-
 *Date*
+```
 
 ## **STEP 4 : Emailing the PDF of your filled application.**
 
@@ -126,8 +135,9 @@ All that remains for you to do is email this PDf of your application to the Coor
 
 **Format for email from the Applicant to enclose GIPEDI Application**
 
-[mailto:subrat@ee.iitd.ac.in](mailto:subrat@ee.iitd.ac.in)?subject=[GIPEDI/ Batch ?? / Year ???] <Name of Applicant>&body=To: Prof Subrat Kar Coordinator GIPEDI Program
+[mailto:subrat@ee.iitd.ac.in](mailto:subrat@ee.iitd.ac.in?subject=\[GIPEDI/ Batch ?? / Year ???\] <Name of Applicant>&body=To: Prof Subrat Kar Coordinator GIPEDI Program)
 
+```    
 *From: <Name>, <Address> <email> <Telephone>*
 
 *Dear Sir,*
@@ -136,7 +146,8 @@ All that remains for you to do is email this PDf of your application to the Coor
 
 *I have paid the application fee online with transaction details as follows : TID … dated …*
 
-*The TPO of my Institute will email you directly from his/her official email address < fill in your TPO’s official email address >.*
+*The TPO of my Institute will email you directly from his/her official email address 
+< fill in your TPO’s official email address >.*
 
 *I have requested the following two referees to fill in a LoR each for me.*
 
@@ -145,7 +156,5 @@ All that remains for you to do is email this PDf of your application to the Coor
 *<referee 2 Name and official email>*
 
 *<Name of Applicant>*
-
 *email*
-
-*Mobile*
+*Mobile*)
