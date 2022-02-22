@@ -41,9 +41,7 @@ This site was visited from:
 
 [![](file:///C:/Users/subra/.config/joplin-desktop/resources/973ba8ea08854f51ae5825259113af15.htm)](https://www.google.com/url?q=https%3A%2F%2Fclustrmaps.com%2Fsite%2F19i89%23&sa=D&sntz=1&usg=AFQjCNFpAyFOXUvz1_libFd-Sg3iXbQ6HA)
 
-**STEP** **1**
-
-**Filling, signing, and creating a PDF of your application which you will email.**
+## **STEP 1 : Filling, signing, and creating a PDF of your application which you will email.**
 
 **Incomplete applications will not be processed.**
 
@@ -72,9 +70,7 @@ Remember that the Application fee must be paid and details of Transaction record
 - Account Type Saving
     
 
-**STEP 2**
-
-**Asking two of your Referees to fill your ( two ) LoRs.**
+## **STEP 2 : Asking two of your Referees to fill your ( two ) LoRs.**
 
 LoR can be filled online, emailed in a prescribed LoR format or posted physically.
 
@@ -86,25 +82,17 @@ ex: ***LoR_for_Shashi_Kiran_B1_2020_by_K_Gandharva_07_July_2020***
 
 They can choose to
 
-(a) **fill the LoR online** (<ins>[click here to fill the LoR online](https://forms.gle/8q9Bv8nF3oZyZqXs9)</ins> or send them the link below)
-
-https://forms.gle/8q9Bv8nF3oZyZqXs9
-
+1. **fill the LoR online** (<ins>[click here to fill the LoR online](https://forms.gle/8q9Bv8nF3oZyZqXs9)</ins> or send them this link )
+[or send them this link](https://forms.gle/8q9Bv8nF3oZyZqXs9)
 OR
 
-(b) **email me the LoR ( PDF format can be downloaded from here)** from their official email address
-
+2. **email me the LoR ( PDF format can be downloaded from here)** from their official email address
 *Example of an official address: gipedi@ee.iitd.ac.in (On the other hand, a private email address could be gipedi@gmail.com.*
-
 *Note that using a private email for official correspondence does NOT make it a official address.)*
-
 OR
+**post it by mail in a securely sealed envelope (either separately or as part of your application if you are posting it)**
 
-© **post it by mail in a securely sealed envelope (either separately or as part of your application if you are posting it)**
-
-**STEP 3**
-
-**Getting your application forwarded by your TPO**
+## **STEP 3 : Getting your application forwarded by your TPO**
 
 Your TPO does not have to physically sign on the first page any longer - this No Objection / Forwarding can be done by the TPO sending an email.
 
@@ -130,9 +118,7 @@ Your TPO signature can be substituted by a email from your TPO to me. This email
 
 *Date*
 
-**STEP 4**
-
-**Emailing the PDF of your filled application.**
+## **STEP 4 : Emailing the PDF of your filled application.**
 
 At this point, your referees have emailed two LoRs, your TPO has sent an email forwarding your application and you have paid the Application Fee, and have filled and created a PDF which you will email.
 
